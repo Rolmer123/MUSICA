@@ -1,4 +1,7 @@
 XTM3U
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="#### FRANCE APPLE TV ####" tvg-logo="" group-title="|FR| CINE PRIME UHD",#### FRANCE APPLE TV ####
+http://line.dino-ott.ru:80/6052037877/f1ee6fd523/653442
 #EXTINF:-1 tvg-id="Melody.fr" tvg-name="FR - MELODY UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/melodyhd.png" group-title="|EU| FRANCE ENTERTAINMENT",FR - MELODY UHD
 http://line.dino-ott.ru:80/6052037877/f1ee6fd523/543267
 #EXTINF:-1 tvg-id="Melody.fr" tvg-name="FR - MELODY" tvg-logo="http://logo.protv.cc/picons-dino/logos/melodyhd.png" group-title="|EU| FRANCE ENTERTAINMENT",FR - MELODY
